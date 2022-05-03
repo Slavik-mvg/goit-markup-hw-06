@@ -867,12 +867,9 @@ footer {
   outline: transparent;
 
   color: rgba(255, 255, 255, 0.6);
-
-  cursor: pointer;
 }
 
-.subscribe-email:focus,
-.subscribe-email:hover {
+.subscribe-email:focus {
   border: 1px solid var(--title-text-color);
 }
 
